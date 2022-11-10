@@ -19,7 +19,7 @@ public class AnimalsCage {
     private Timer timer;
 
     public Timer getTimer() {
-        return timer;
+        return this.timer;
     }
 
     public void whatAnimalSay() {
